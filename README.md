@@ -1,0 +1,2 @@
+# AlgoAdatSoftInPython
+Algoritmusok Python nyelven
